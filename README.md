@@ -1,1 +1,1 @@
-# miniproject1
+The user is prompted to input whether they would like to encrypt or decrypt a file of their choice. Once the compiler processes the user's input, the resulting output is an ecrypted txt.crp file or a decrypted crp.txt file depending on the option they choose.
